@@ -1,4 +1,5 @@
 "use strict";
+// TODO: turn magic numbers into constants.
 
 function Person({ name, age, hobbies }) {
   return (
